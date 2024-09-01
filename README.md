@@ -50,10 +50,8 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
   <a href="https://github.com/F-ranco/PI-Franco-Food"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=franco-oropel&repo=PI-Franco-Food&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="FrankFood App"></a>
   
   <a href="https://github.com/franco-oropel/HiTalent-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=franco-oropel&repo=HiTalent-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="HiTalent Project"></a>
-    
-   
-    
-    
+
+  <a href="https://github.com/franco-oropel/Financial-Hub"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=franco-oropel&repo=Financial-Hub&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Financial-Hub"></a>
     
 <br></br>
     
