@@ -8,8 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Franco+Ezequiel+Oropel+Sottile++;Full-Stack-Web-Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
 
-<p align="center"><em>¡Hola 🤙! Me llamo Franco, tengo 24 años y soy Full Stack Developer orientado al Backend, principalmente con JavaScript y Python.<br></br>
-Mientras avanzo en mi desarrollo profesional, continuo estudiando en la Universidad 📚, mejorando mi inglés, y me encuentro en la etapa final de un bootcamp especializado en Java 🚀 (ademas de seguir siendo autodidacta en herramientas y frameworks para seguir aprendiendo constantemente 🔎).<br></br>
+<p align="center"><em>¡Hola 🤙! Me llamo Franco, tengo 24 años y soy Full Stack Developer orientado al Backend, utilizando JavaScript y Python en mi trabajo diario. Además, cuento con sólida formación en Java.<br></br>
+Mientras avanzo en mi desarrollo profesional, continuo estudiando en la Universidad 📚 y mejorando mi inglés (ademas de seguir siendo autodidacta en herramientas y frameworks para seguir aprendiendo constantemente 🔎).<br></br>
 Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></br>¡Me gustaria compartirte mis habilidades!</em></p>
 
 <br></br>
